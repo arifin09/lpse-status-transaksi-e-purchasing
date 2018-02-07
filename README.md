@@ -153,7 +153,7 @@ Vue.component('echarts-status-transaksi-e-purchasing-tahun', StatusTransaksiEpur
 import StatusTransaksiEpurchasingAdminShow from './components/bantenprov/status-transaksi-e-purchasing/StatusTransaksiEpurchasingAdmin.show.vue';
 Vue.component('admin-view-status-transaksi-e-purchasing-tahun', StatusTransaksiEpurchasingAdminShow);
 
-//== Echarts Angka Partisipasi Kasar
+//== Echarts Status Transaksi e Purchasing
 
 import StatusTransaksiEpurchasingBar01 from './components/views/bantenprov/status-transaksi-e-purchasing/StatusTransaksiEpurchasingBar01.vue';
 Vue.component('status-transaksi-e-purchasing-bar-01', StatusTransaksiEpurchasingBar01);
