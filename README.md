@@ -10,13 +10,10 @@ Status Transaksi e-Purchasing
 
 - Development snapshot
 ```bash
-$ composer require bantenprov/status-transaksi-e-purchasing:dev-master
+$ composer require bantenprov/lpse-status-transaksi-e-purchasing:dev-master
 ```
 - Latest release:
 
-```bash
-$ composer require bantenprov/status-transaksi-e-purchasing:v0.1.0
-```
 
 ## download via github
 ~~~
