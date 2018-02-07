@@ -1,8 +1,16 @@
 # lpse-status-transaksi-e-purchasing
 
-[![Join the chat at https://gitter.im/status-transaksi-e-purchasing/Lobby](https://badges.gitter.im/status-transaksi-e-purchasing/Lobby.svg)](https://gitter.im/status-transaksi-e-purchasing/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/bantenprov/status-transaksi-e-purchasing/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/bantenprov/status-transaksi-e-purchasing/?branch=master)
-[![Build Status](https://scrutinizer-ci.com/g/bantenprov/status-transaksi-e-purchasing/badges/build.png?b=master)](https://scrutinizer-ci.com/g/bantenprov/status-transaksi-e-purchasing/build-status/master)
+
+[![Join the chat at https://gitter.im/lpse-status-transaksi-e-purchasing/Lobby](https://badges.gitter.im/lpse-status-transaksi-e-purchasing/Lobby.svg)](https://gitter.im/lpse-status-transaksi-e-purchasing/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/bantenprov/lpse-status-transaksi-e-purchasing/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/bantenprov/lpse-status-transaksi-e-purchasing/?branch=master)
+[![Build Status](https://scrutinizer-ci.com/g/bantenprov/lpse-status-transaksi-e-purchasing/badges/build.png?b=master)](https://scrutinizer-ci.com/g/bantenprov/lpse-status-transaksi-e-purchasing/build-status/master)
+
+[![Latest Stable Version](https://poser.pugx.org/bantenprov/lpse-status-transaksi-e-purchasing/v/stable)](https://packagist.org/packages/bantenprov/lpse-status-transaksi-e-purchasing)
+[![Total Downloads](https://poser.pugx.org/bantenprov/lpse-status-transaksi-e-purchasing/downloads)](https://packagist.org/packages/bantenprov/lpse-status-transaksi-e-purchasing)
+[![Latest Unstable Version](https://poser.pugx.org/bantenprov/lpse-status-transaksi-e-purchasing/v/unstable)](https://packagist.org/packages/bantenprov/lpse-status-transaksi-e-purchasing)
+[![License](https://poser.pugx.org/bantenprov/lpse-status-transaksi-e-purchasing/license)](https://packagist.org/packages/bantenprov/lpse-status-transaksi-e-purchasing)
+[![Monthly Downloads](https://poser.pugx.org/bantenprov/lpse-status-transaksi-e-purchasing/d/monthly)](https://packagist.org/packages/bantenprov/lpse-status-transaksi-e-purchasing)
+[![Daily Downloads](https://poser.pugx.org/bantenprov/lpse-status-transaksi-e-purchasing/d/daily)](https://packagist.org/packages/bantenprov/lpse-status-transaksi-e-purchasing)
 
 Status Transaksi e-Purchasing
 
