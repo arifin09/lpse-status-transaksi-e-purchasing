@@ -6,7 +6,7 @@
 
 Status Transaksi e-Purchasing
 
-### install via composer
+## install via composer
 
 - Development snapshot
 ```bash
@@ -14,7 +14,7 @@ $ composer require bantenprov/lpse-status-transaksi-e-purchasing:dev-master
 ```
 - Latest release:
 
-### download via github
+## download via github
 ~~~
 bash
 $ git clone https://github.com/bantenprov/status-transaksi-e-purchasing.git
