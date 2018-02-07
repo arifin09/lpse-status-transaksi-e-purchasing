@@ -14,7 +14,6 @@ $ composer require bantenprov/lpse-status-transaksi-e-purchasing:dev-master
 ```
 - Latest release:
 
-
 ## download via github
 ~~~
 bash
