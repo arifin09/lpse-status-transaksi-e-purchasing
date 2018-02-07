@@ -1,0 +1,1 @@
+This is demo view file for Bantenprov\StatusTransaksiEpurchasing package using blade template
